@@ -7,5 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##  O projetu
+##  Basic CRUD in Laravel
+A picture is more than a few words.
+
 https://user-images.githubusercontent.com/60448270/232200979-704dc04d-cade-4128-b742-2dbc805fd6fa.mp4
